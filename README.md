@@ -58,26 +58,3 @@ python 08-Function/recursion.py
 
 On Windows, use `py` instead of `python` if that is how Python is installed.
 Some scripts ask for input; follow the prompts in the terminal.
-
-## Learning notes
-
-- Read the comments in each script, then change a value and run it again.
-- The scripts are independent examples; there is no test suite or build step.
-- If an example behaves unexpectedly, include the command you ran and the
-  Python version when opening an issue.
-- See [`05-expressions/README.md`](./05-expressions/README.md) for a quick
-  operator reference and [`07-exercises/README.md`](./07-exercises/README.md)
-  for practice suggestions. The [`08-Function/README.md`](./08-Function/README.md)
-  covers functions and recursion.
-
-## Contributing
-
-Small beginner-friendly improvements are welcome. Keep examples focused, add
-comments where they clarify a concept, and update this learning path when
-adding or moving lessons. For larger changes, open an issue first to discuss
-the proposed lesson.
-
-## License
-
-This repository does not currently include a license. Choose and add a license
-before inviting others to reuse or redistribute its contents.
